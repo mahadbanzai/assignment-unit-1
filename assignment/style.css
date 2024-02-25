@@ -17,7 +17,7 @@ p{
 }
 /* Put a border around your image */
 img{ 
-    border: 12px;
+    border-width: 12px;
 }
 /* Change the font-family of your list */
 footer{
