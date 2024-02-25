@@ -18,6 +18,8 @@ p{
 /* Put a border around your image */
 img{ 
     border-width: 12px;
+    border-style: dashed;
+    border-color: wheat;
 }
 /* Change the font-family of your list */
 footer{
